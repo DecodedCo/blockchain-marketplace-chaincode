@@ -34,7 +34,7 @@ import (
 
     "github.com/hyperledger/fabric/core/chaincode/shim"
 
-    utils "github.com/DecodedCo/blockchain-golang-chaincode/utils"
+    utils "github.com/DecodedCo/blockchain-marketplace-chaincode/utils"
 )
 
 
