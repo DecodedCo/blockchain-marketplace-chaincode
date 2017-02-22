@@ -3,14 +3,9 @@ package utils
 
 
 import (
-    "net/http"
-    "io/ioutil"
     "fmt"
     "reflect"
     "strconv"
-
-    "crypto/tls"
-    "crypto/x509"
 )
 
 
